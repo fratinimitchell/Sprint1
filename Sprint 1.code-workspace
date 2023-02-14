@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "images"
+		}
+	],
+	"settings": {
+		"files.autoSave": "onFocusChange",
+		"liveServer.settings.multiRootWorkspaceName": "Sprint 1"
+	}
+}
